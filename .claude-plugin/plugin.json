@@ -1,0 +1,8 @@
+{
+  "name": "paper2bullets",
+  "version": "1.0.0",
+  "description": "Turn a research paper into five bullets: title, question, method, result, limitation.",
+  "author": {
+    "name": "R-Dawidowicz"
+  }
+}
