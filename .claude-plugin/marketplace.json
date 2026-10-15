@@ -1,0 +1,13 @@
+{
+  "name": "R-Dawidowicz-skills",
+  "owner": {
+    "name": "R-Dawidowicz"
+  },
+  "plugins": [
+    {
+      "name": "paper2bullets",
+      "source": "./",
+      "description": "Turn a research paper into five bullets: title, question, method, result, limitation."
+    }
+  ]
+}
